@@ -1,0 +1,16 @@
+SO i have planned to code a modern looking multi user To do list. 
+which will have followig functionalities
+
+* You can first sign up, meaning create account
+* Then you can login using your credentials
+* Upon login you will see all your tasks, 
+     * You can add new tasks
+     * You can delete tasks
+     * You can also mark tasks as completed
+     * You can also see all the tasks of all users
+     * You can reorder the tasks, 
+* You can switch account and their will be other tasks. 
+    * You can choose to save login credentials that will automatically 
+    * login you to the app. Or you can choose to not save. 
+
+For Database i am thinking to use mysql. and for library i don't know what to choose
