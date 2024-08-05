@@ -49,8 +49,6 @@ class LoginGui(tk.Tk):
         self.mail_label.grid(row = 3 , column = 0, pady= 10, padx = 10)
         self.mail_entry.grid(row = 3, column = 1, pady= 10, padx = 10)
 
-
-
         self.log_in_button.pack(pady=20)
 
 
